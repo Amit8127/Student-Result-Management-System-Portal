@@ -77,17 +77,14 @@ The Student Result Management System is open-source and distributed under the MI
 
 # Project Screenshots
 ![Main Page](src/student_result_management_system/Images_And_Logos/ss1.png)
-#
+
 ![Admin Login Page](src/student_result_management_system/Images_And_Logos/ss2.png)
-#
+
 ![Add new student page](src/student_result_management_system/Images_And_Logos/ss3.png)
-#
+
 ![insert new result page](src/student_result_management_system/Images_And_Logos/ss4.png)
-#
+
 ![view result input page](src/student_result_management_system/Images_And_Logos/ss5.png)
-#
 ![Mark sheet page](src/student_result_management_system/Images_And_Logos/ss6.png)
 
 **Thank you for using the Student Result Management System (Java Swing)! If you have any questions or need assistance, please feel free to contact us.**
-
-#
